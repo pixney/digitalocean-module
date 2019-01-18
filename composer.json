@@ -1,0 +1,13 @@
+{
+    "name": "pixney/digitalocean-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Pixney\\DigitaloceanModule\\": "src/"
+        }
+    },
+    "require": {
+        "league/flysystem-aws-s3-v3": "^1.0",
+        "graham-campbell/digitalocean": "^5.1"
+    }
+}

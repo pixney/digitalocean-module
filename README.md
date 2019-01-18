@@ -1,0 +1,4 @@
+- List all existing snapshots
+- Delete an existing snapshot
+- Show all existing droplets
+- Create a snapshot of an existing droplet
